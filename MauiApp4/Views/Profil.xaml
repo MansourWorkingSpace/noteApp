@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MauiApp4.Views.Profil"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Profil">
+    <VerticalStackLayout Padding="10" Spacing="12">
+        <!-- Header -->
+        <Frame Padding="8" BackgroundColor="Transparent">
+            <Label Text="👤 Profil" FontAttributes="Bold" FontSize="18" />
+        </Frame>
+
+        <Frame Padding="12" >
+            <VerticalStackLayout Spacing="12">
+                <!-- Avatar + Name -->
+                <HorizontalStackLayout Spacing="10" VerticalOptions="Center">
+                    <BoxView WidthRequest="48" HeightRequest="48" Color="#cccccc" />
+                    <Label Text="Jean Dupont" VerticalOptions="Center" FontSize="16" />
+                </HorizontalStackLayout>
+
+                <!-- Statistics -->
+                <Label Text="📊 Statistiques :" FontAttributes="Bold" />
+                <Label Text="• 5 notes créées" />
+                <Label Text="• Membre depuis 3 jours" />
+
+                <!-- Settings -->
+                <Label Text="⚙️ Paramètres :" FontAttributes="Bold" />
+                <HorizontalStackLayout Spacing="8" VerticalOptions="Center">
+                    <Label Text="Notifications" VerticalOptions="Center" />
+                    <Switch IsToggled="False" />
+                </HorizontalStackLayout>
+                <HorizontalStackLayout Spacing="8" VerticalOptions="Center">
+                    <Label Text="Mode sombre" VerticalOptions="Center" />
+                    <Switch IsToggled="True" />
+                </HorizontalStackLayout>
+
+                <Button Text="[◀️ Retour]" Command="{Binding Router.NavigateToAcceuilCommand}" />
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MauiApp4.Views.Note"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Note">
+    <VerticalStackLayout Padding="10" Spacing="12">
+        <!-- Header -->
+        <Frame Padding="8"  BackgroundColor="Transparent">
+            <Label Text="✏️ Nouvelle Note" FontAttributes="Bold" FontSize="18" />
+        </Frame>
+
+        <!-- Form -->
+        <Frame Padding="12" >
+            <VerticalStackLayout Spacing="10">
+                <Label Text="Titre :" />
+                <Entry Placeholder="Titre" />
+
+                <Label Text="Contenu :" />
+                <Editor HeightRequest="120" Placeholder="Entrez le contenu..." />
+
+                <HorizontalStackLayout Spacing="12">
+                    <Button Text="[💾 Enregistrer]" />
+                    <Button Text="[◀️ Retour]" Command="{Binding Router.NavigateToAcceuilCommand}" />
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>
