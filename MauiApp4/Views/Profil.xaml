@@ -15,12 +15,12 @@
                 <!-- Avatar + Name -->
                 <HorizontalStackLayout Spacing="10" VerticalOptions="Center">
                     <BoxView WidthRequest="48" HeightRequest="48" Color="#cccccc" />
-                    <Label Text="Jean Dupont" VerticalOptions="Center" FontSize="16" />
+                    <Label Text="{Binding UserName}" VerticalOptions="Center" FontSize="16" />
                 </HorizontalStackLayout>
 
                 <!-- Statistics -->
                 <Label Text="📊 Statistiques :" FontAttributes="Bold" />
-                <Label Text="• 5 notes créées" />
+                <Label Text="{Binding NotesCount, StringFormat='• {0} notes créées'}" />
                 <Label Text="• Membre depuis 3 jours" />
 
                 <!-- Settings -->

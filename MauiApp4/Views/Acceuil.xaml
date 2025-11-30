@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+<ContentPage x:Name="RootPage" xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp4.Views.Acceuil"
              Title="Acceuil">
@@ -19,6 +19,11 @@
                     <CollectionView.ItemTemplate>
                         <DataTemplate>
                             <Frame Padding="8" Margin="4" BorderColor="#ddd">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                        Command="{Binding Source={x:Reference RootPage}, Path=BindingContext.Router.NavigateToNoteCommand}"
+                                        CommandParameter="{Binding Id}" />
+                                </Frame.GestureRecognizers>
                                 <HorizontalStackLayout Spacing="10">
                                     <Label Text="{Binding Title}" FontSize="16" VerticalOptions="Center" />
                                     <Label Text="{Binding CreatedAt}" FontSize="12" HorizontalOptions="EndAndExpand" VerticalOptions="Center" />

@@ -25,23 +25,13 @@ namespace MauiApp4.Infrastructure.Persistence
             conn.Open();
 
             using var cmd = conn.CreateCommand();
+
             // Create Users table first
             cmd.CommandText = @"
                 CREATE TABLE IF NOT EXISTS Users (
                     Id INTEGER PRIMARY KEY AUTOINCREMENT,
                     Name TEXT,
                     Email TEXT,
-                    CreatedAt TEXT
-                );";
-            cmd.ExecuteNonQuery();
-
-            // Create Notes table with UserId relation
-            cmd.CommandText = @"
-                CREATE TABLE IF NOT EXISTS Notes (
-                    Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    Title TEXT,
-                    Content TEXT,
-                    UserId INTEGER,
                     CreatedAt TEXT
                 );";
             cmd.ExecuteNonQuery();
@@ -66,6 +56,18 @@ namespace MauiApp4.Infrastructure.Persistence
             {
                 CurrentUserId = Convert.ToInt32(existing);
             }
+
+            // Create Notes table if missing (may be from an earlier schema)
+            cmd.CommandText = @"
+                CREATE TABLE IF NOT EXISTS Notes (
+                    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    Title TEXT,
+                    Content TEXT,
+                    UserId INTEGER,
+                    CreatedAt TEXT
+                );";
+            cmd.Parameters.Clear();
+            cmd.ExecuteNonQuery();
         }
 
         public SqliteConnection CreateConnection()

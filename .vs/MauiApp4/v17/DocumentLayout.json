@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\profil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\profil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\viewmodels\\acceuilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\acceuilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\services\\persistence\\inotedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\services\\persistence\\inotedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\infrastructure\\persistence\\daocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\infrastructure\\persistence\\daocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +23,12 @@
       "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\infrastructure\\persistence\\notedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\services\\persistence\\inotedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\services\\persistence\\inotedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiApp4\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\viewmodels\\routingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\routingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\viewmodels\\acceuilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\acceuilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\profil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\profil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\note.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\note.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\acceuil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\acceuil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\models\\business\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\models\\business\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\acceuil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +39,36 @@
       "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\note.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\profil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\profil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\acceuil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\acceuil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\services\\persistence\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\services\\persistence\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\viewmodels\\routingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\routingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\note.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\note.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\views\\profil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\views\\profil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{238D6D6F-B323-418D-80F3-DC416A3FFC25}|MauiApp4\\MauiApp4.csproj|c:\\users\\dell\\source\\repos\\mauiapp4\\mauiapp4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -70,93 +82,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INoteDao.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Services\\Persistence\\INoteDao.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\Services\\Persistence\\INoteDao.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Services\\Persistence\\INoteDao.cs",
-              "RelativeToolTip": "MauiApp4\\Services\\Persistence\\INoteDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:33:35.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NoteDao.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
-              "RelativeToolTip": "MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwBcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:30:42.418Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DaoContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
-              "RelativeToolTip": "MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:24:38.444Z",
+              "Title": "Profil.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Profil.xaml",
+              "RelativeDocumentMoniker": "MauiApp4\\Views\\Profil.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Profil.xaml",
+              "RelativeToolTip": "MauiApp4\\Views\\Profil.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T16:17:17.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NoteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\NoteViewModel.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\NoteViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\NoteViewModel.cs",
-              "RelativeToolTip": "MauiApp4\\ViewModels\\NoteViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:13:36.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AcceuilViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\AcceuilViewModel.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\AcceuilViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\AcceuilViewModel.cs",
-              "RelativeToolTip": "MauiApp4\\ViewModels\\AcceuilViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:10:27.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoutingViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\RoutingViewModel.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\RoutingViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\RoutingViewModel.cs",
-              "RelativeToolTip": "MauiApp4\\ViewModels\\RoutingViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:54:38.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Profil.xaml.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Profil.xaml.cs",
               "RelativeDocumentMoniker": "MauiApp4\\Views\\Profil.xaml.cs",
@@ -168,71 +119,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Note.xaml.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Note.xaml.cs",
               "RelativeDocumentMoniker": "MauiApp4\\Views\\Note.xaml.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Note.xaml.cs",
               "RelativeToolTip": "MauiApp4\\Views\\Note.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T16:25:27.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Acceuil.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Acceuil.xaml.cs",
-              "RelativeDocumentMoniker": "MauiApp4\\Views\\Acceuil.xaml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Acceuil.xaml.cs",
-              "RelativeToolTip": "MauiApp4\\Views\\Acceuil.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T16:23:00.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Note.xaml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Note.xaml",
-              "RelativeDocumentMoniker": "MauiApp4\\Views\\Note.xaml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Note.xaml",
-              "RelativeToolTip": "MauiApp4\\Views\\Note.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T16:16:59.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Profil.xaml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Profil.xaml",
-              "RelativeDocumentMoniker": "MauiApp4\\Views\\Profil.xaml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Profil.xaml",
-              "RelativeToolTip": "MauiApp4\\Views\\Profil.xaml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T16:17:17.356Z",
-              "EditorCaption": ""
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Models\\Business\\NoteService.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Models\\Business\\NoteService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Models\\Business\\NoteService.cs",
+              "RelativeToolTip": "MauiApp4\\Models\\Business\\NoteService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwF4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:35:24.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "NoteDao.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
+              "RelativeToolTip": "MauiApp4\\Infrastructure\\Persistence\\NoteDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:30:42.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DaoContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
+              "RelativeToolTip": "MauiApp4\\Infrastructure\\Persistence\\DaoContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:24:38.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcceuilViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\AcceuilViewModel.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\AcceuilViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\AcceuilViewModel.cs",
+              "RelativeToolTip": "MauiApp4\\ViewModels\\AcceuilViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:10:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INoteDao.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Services\\Persistence\\INoteDao.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Services\\Persistence\\INoteDao.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Services\\Persistence\\INoteDao.cs",
+              "RelativeToolTip": "MauiApp4\\Services\\Persistence\\INoteDao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:33:35.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Acceuil.xaml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Acceuil.xaml",
               "RelativeDocumentMoniker": "MauiApp4\\Views\\Acceuil.xaml",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Acceuil.xaml",
               "RelativeToolTip": "MauiApp4\\Views\\Acceuil.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T16:09:12.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T16:09:12.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MauiApp4\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:51:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Acceuil.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Acceuil.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Views\\Acceuil.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Acceuil.xaml.cs",
+              "RelativeToolTip": "MauiApp4\\Views\\Acceuil.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:23:00.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoutingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\RoutingViewModel.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\RoutingViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\RoutingViewModel.cs",
+              "RelativeToolTip": "MauiApp4\\ViewModels\\RoutingViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:54:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\NoteViewModel.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\NoteViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\ViewModels\\NoteViewModel.cs",
+              "RelativeToolTip": "MauiApp4\\ViewModels\\NoteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:13:36.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "IUserDao.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Services\\Persistence\\IUserDao.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Services\\Persistence\\IUserDao.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Services\\Persistence\\IUserDao.cs",
+              "RelativeToolTip": "MauiApp4\\Services\\Persistence\\IUserDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:35:13.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Note.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Note.xaml",
+              "RelativeDocumentMoniker": "MauiApp4\\Views\\Note.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\Views\\Note.xaml",
+              "RelativeToolTip": "MauiApp4\\Views\\Note.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T16:16:59.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\App.xaml",
               "RelativeDocumentMoniker": "MauiApp4\\App.xaml",
@@ -244,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiApp4\\MainPage.xaml",
@@ -256,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MauiApp4\\MauiApp4\\AppShell.xaml",
               "RelativeDocumentMoniker": "MauiApp4\\AppShell.xaml",

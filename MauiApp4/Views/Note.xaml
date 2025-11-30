@@ -14,13 +14,13 @@
         <Frame Padding="12" >
             <VerticalStackLayout Spacing="10">
                 <Label Text="Titre :" />
-                <Entry Placeholder="Titre" />
+                <Entry Placeholder="Titre" Text="{Binding Title}" />
 
                 <Label Text="Contenu :" />
-                <Editor HeightRequest="120" Placeholder="Entrez le contenu..." />
+                <Editor HeightRequest="120" Placeholder="Entrez le contenu..." Text="{Binding Content}" />
 
                 <HorizontalStackLayout Spacing="12">
-                    <Button Text="[💾 Enregistrer]" />
+                    <Button Text="[💾 Enregistrer]" Command="{Binding SaveCommand}" />
                     <Button Text="[◀️ Retour]" Command="{Binding Router.NavigateToAcceuilCommand}" />
                 </HorizontalStackLayout>
             </VerticalStackLayout>

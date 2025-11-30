@@ -1,7 +1,7 @@
 using System.Windows.Input;
 using System.Threading.Tasks;
 using MauiApp4.Models.Entities;
-using MauiApp4.Services.Business;
+using MauiApp4.Models.Business;
 
 namespace MauiApp4.ViewModels
 {
@@ -29,6 +29,17 @@ namespace MauiApp4.ViewModels
             SaveCommand = new Microsoft.Maui.Controls.Command(async () => await SaveAsync());
         }
 
+        // Load an existing note for editing
+        public async Task LoadAsync(int noteId)
+        {
+            var note = await _noteService.GetNoteByIdAsync(noteId);
+            if (note is null) return;
+
+            Id = note.Id;
+            Title = note.Title;
+            Content = note.Content;
+        }
+
         public async Task SaveAsync()
         {
             if (Id == 0)
@@ -47,4 +58,4 @@ namespace MauiApp4.ViewModels
         }
     }
 }
- 
+

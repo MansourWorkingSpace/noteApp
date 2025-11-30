@@ -182,3 +182,4 @@ C:\Users\DELL\source\repos\MauiApp4\MauiApp4\bin\Debug\net8.0-windows10.0.19041.
 C:\Users\DELL\source\repos\MauiApp4\MauiApp4\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
 C:\Users\DELL\source\repos\MauiApp4\MauiApp4\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\DELL\source\repos\MauiApp4\MauiApp4\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\DELL\source\repos\MauiApp4\MauiApp4\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp4.sourcelink.json
